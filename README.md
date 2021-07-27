@@ -1,2 +1,2 @@
 # React
-## Feed app
+## Web feed
